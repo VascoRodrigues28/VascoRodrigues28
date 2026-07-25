@@ -68,9 +68,10 @@ Jogo 2D em Lua inspirado no Flappy Bird, desenvolvido como Prova de Aptidão Pro
 
 ## ✨ Funcionalidades
 - Jogabilidade 2D estilo "flappy", com física simples de gravidade e salto
-- Vários níveis de dificuldade
-- Sistema de níveis
-- Personalização de nível
+- Seleção de níveis: clássicos, diferenciados e nível original
+- Dificuldade personalizada, com ajuste de velocidade e espaçamento dos obstáculos
+- Menu de pausa com acesso a controlos, seleção de nível e saída
+- Contagem de pontuação em tempo real
 
 ## 🛠️ Stack técnica
 - **Linguagem:** Lua
@@ -78,9 +79,18 @@ Jogo 2D em Lua inspirado no Flappy Bird, desenvolvido como Prova de Aptidão Pro
 
 ## 📸 Screenshots
 
-![Menu principal do Fifty Bird](screenshots/fifty-bird-menu-1.png)
+| Menu principal | Seleção de níveis |
+|---|---|
+| ![Menu principal](screenshots/fifty-bird-menu-1.png) | ![Seleção de níveis](screenshots/fifty-bird-niveis.png) |
 
-_(adicionar aqui capturas adicionais do gameplay e do ecrã de dificuldades, para mostrar o jogo em ação)_
+| Dificuldade personalizada | Pausa |
+|---|---|
+| ![Dificuldade personalizada](screenshots/fifty-bird-dificuldade.png) | ![Pausa](screenshots/fifty-bird-pausa.png) |
+
+| Gameplay |
+|---|
+| ![Gameplay 1](screenshots/fifty-bird-gameplay-1.png) |
+| ![Gameplay 2](screenshots/fifty-bird-gameplay-2.png) |
 
 ## 📚 Contexto académico
 Projeto desenvolvido como Prova de Aptidão Profissional (PAP), no Curso Profissional de Programador Informático.
