@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, sou o Vasco 👋
 
-<!--
-**VascoRodrigues28/VascoRodrigues28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer júnior, formado em Desenvolvimento Web e Dispositivos Móveis (CTeSP, ESTG/IPP). Gosto de aprender fazendo e de construir projetos completos, do frontend ao backend.
 
-Here are some ideas to get you started:
+**Em produção, na Fashable**, trabalhei em dois projetos reais:
+- Módulo de geração/edição de imagem com IA (geração por texto, edição com máscara)
+- Funcionalidade de catalogação e venda de vestuário com distribuição automática para redes sociais e checkout via Stripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Stack
+`JavaScript` `TypeScript` `Python` `Kotlin` · `React` `Next.js` `Tailwind CSS` · `FastAPI` `Node.js` `Express` · `MongoDB` `Cosmos DB` · `Microsoft Azure` · `Git`
+
+#### 📌 Projetos em destaque
+- **SmartLibrary Hub** — plataforma full-stack de gestão de biblioteca (Node.js, Express, MongoDB, React 18), com autenticação JWT, controlo de acessos por perfil, gestão de empréstimos, multas e reservas de espaços.
+- **ClimaApp** — app Android de monitorização meteorológica (Kotlin, Jetpack Compose, arquitetura MVVM, API Open-Meteo).
+
+#### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/vasco-rodrigues-521b983aa) · rvasco341@gmail.com
