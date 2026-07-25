@@ -61,3 +61,23 @@ _(adicionar aqui 2-3 capturas de ecrã da app: ecrã principal, previsão, defin
 
 ## 📚 Contexto académico
 Projeto desenvolvido para a unidade curricular de Programação para Dispositivos Móveis 1, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
+
+# Fifty Bird
+
+Jogo 2D em Lua inspirado no Flappy Bird, desenvolvido como Prova de Aptidão Profissional (PAP) do Curso Profissional de Programador Informático.
+
+## ✨ Funcionalidades
+- Jogabilidade 2D estilo "flappy", com física simples de gravidade e salto
+- Vários níveis de dificuldade
+- Sistema de níveis
+- Personalização de nível
+
+## 🛠️ Stack técnica
+- **Linguagem:** Lua
+- **Framework:** LÖVE (Love2D)
+
+## 📸 Screenshots
+_(adicionar aqui 2-3 capturas de ecrã do jogo: menu, níveis de dificuldade, gameplay)_
+
+## 📚 Contexto académico
+Projeto desenvolvido como Prova de Aptidão Profissional (PAP), no Curso Profissional de Programador Informático.
