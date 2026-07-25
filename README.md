@@ -39,3 +39,25 @@ _(adicionar aqui 2-3 capturas de ecrã da aplicação: login, dashboard, gestão
 
 ## 📚 Contexto académico
 Projeto desenvolvido para a unidade curricular de Programação para a Web, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
+
+# ClimaApp
+
+Aplicação Android de monitorização meteorológica, desenvolvida no âmbito da unidade curricular de Programação para Dispositivos Móveis 1.
+
+## ✨ Funcionalidades
+- Consulta de condições meteorológicas atuais e previsão
+- Interface construída com Jetpack Compose
+- Persistência local de preferências e última localização consultada
+
+## 🛠️ Stack técnica
+- **Linguagem:** Kotlin
+- **UI:** Jetpack Compose
+- **Arquitetura:** MVVM
+- **API externa:** Open-Meteo
+- **Persistência local:** SharedPreferences + Gson
+
+## 📸 Screenshots
+_(adicionar aqui 2-3 capturas de ecrã da app: ecrã principal, previsão, definições)_
+
+## 📚 Contexto académico
+Projeto desenvolvido para a unidade curricular de Programação para Dispositivos Móveis 1, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
