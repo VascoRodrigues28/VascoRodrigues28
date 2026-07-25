@@ -77,7 +77,10 @@ Jogo 2D em Lua inspirado no Flappy Bird, desenvolvido como Prova de Aptidão Pro
 - **Framework:** LÖVE (Love2D)
 
 ## 📸 Screenshots
-_(adicionar aqui 2-3 capturas de ecrã do jogo: menu, níveis de dificuldade, gameplay)_
+
+![Menu principal do Fifty Bird](screenshots/fifty-bird-menu-1.png)
+
+_(adicionar aqui capturas adicionais do gameplay e do ecrã de dificuldades, para mostrar o jogo em ação)_
 
 ## 📚 Contexto académico
 Projeto desenvolvido como Prova de Aptidão Profissional (PAP), no Curso Profissional de Programador Informático.
