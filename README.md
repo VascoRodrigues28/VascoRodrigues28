@@ -34,9 +34,6 @@ Plataforma full-stack de gestão de biblioteca, desenvolvida no âmbito da unida
 - **Base de dados:** MongoDB
 - **Autenticação:** JWT
 
-## 📸 Screenshots
-_(adicionar aqui 2-3 capturas de ecrã da aplicação: login, dashboard, gestão de empréstimos)_
-
 ## 📚 Contexto académico
 Projeto desenvolvido para a unidade curricular de Programação para a Web, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
 
@@ -55,9 +52,6 @@ Aplicação Android de monitorização meteorológica, desenvolvida no âmbito d
 - **Arquitetura:** MVVM
 - **API externa:** Open-Meteo
 - **Persistência local:** SharedPreferences + Gson
-
-## 📸 Screenshots
-_(adicionar aqui 2-3 capturas de ecrã da app: ecrã principal, previsão, definições)_
 
 ## 📚 Contexto académico
 Projeto desenvolvido para a unidade curricular de Programação para Dispositivos Móveis 1, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
