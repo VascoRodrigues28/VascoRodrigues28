@@ -7,10 +7,11 @@ Fullstack Developer júnior, formado em Desenvolvimento Web e Dispositivos Móve
 - Funcionalidade de catalogação e venda de vestuário com distribuição automática para redes sociais e checkout via Stripe
 
 #### 🛠️ Stack
-`JavaScript` `TypeScript` `Python` `Kotlin` `Lua` · `React` `Next.js` `Tailwind CSS` · `FastAPI` `Node.js` `Express` · `MongoDB` `Cosmos DB` · `Microsoft Azure` · `Git`
+`JavaScript` `TypeScript` `Python` `Kotlin` `Swift` `Lua` · `React` `Next.js` `Tailwind CSS` `UIKit` · `FastAPI` `Node.js` `Express` · `MongoDB` `Cosmos DB` `Core Data` · `Microsoft Azure` · `Git`
 
 #### 📌 Projetos em destaque
 - **SmartLibrary Hub**: plataforma full-stack de gestão de biblioteca (Node.js, Express, MongoDB, React 18), com autenticação JWT, controlo de acessos por perfil, gestão de empréstimos, multas e reservas de espaços.
+- **AdotaPet**: app iOS de adoção de animais (Swift, UIKit, Core Data), com mapa interativo, gamificação e integrações nativas (SMS, Contactos, chamadas).
 - **ClimaApp**: app Android de monitorização meteorológica (Kotlin, Jetpack Compose, arquitetura MVVM, API Open-Meteo).
 - **Fifty Bird**: jogo 2D em Lua com LÖVE (Love2D), inspirado no Flappy Bird, com vários níveis de dificuldade e personalização de nível. Projeto da Prova de Aptidão Profissional (PAP).
 
@@ -55,6 +56,45 @@ Aplicação Android de monitorização meteorológica, desenvolvida no âmbito d
 
 ## 📚 Contexto académico
 Projeto desenvolvido para a unidade curricular de Programação para Dispositivos Móveis 1, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
+
+# AdotaPet
+
+Aplicação iOS de adoção de animais de estimação, desenvolvida na unidade curricular de Programação para Dispositivos Móveis II.
+
+## ✨ Funcionalidades
+- Listagem de animais disponíveis para adoção, com filtros por categoria (Cães, Gatos, Todos) e pesquisa por nome
+- Ficha de detalhe completa de cada animal, com fotos, descrição e características
+- Sistema de favoritos, persistido localmente com Core Data
+- Mapa interativo com localização dos animais e filtros por raio de distância (5km, 10km, 50km), usando CoreLocation e MapKit
+- Sistema de gamificação com conquistas desbloqueadas por marcos de utilização
+- Integração nativa com iOS: envio de SMS pré-preenchido, chamadas telefónicas e gravação de contacto do abrigo na agenda
+- Notificações locais diárias a sugerir um animal para adoção
+- Definições configuráveis: tema claro/escuro, hora da notificação e número de animais por página
+
+## 🛠️ Stack técnica
+- **Linguagem:** Swift 5.0+
+- **Interface:** UIKit (ViewCode e Auto Layout, sem Storyboards)
+- **Persistência:** Core Data
+- **Localização:** CoreLocation, MapKit
+- **Integração de sistema:** UserNotifications, MessageUI, Contacts
+- **Arquitetura:** MVC (Model-View-Controller)
+
+## 📸 Screenshots
+
+| Ecrã Principal | Detalhe do Animal |
+|---|---|
+| ![Ecrã Principal](screenshots/adotapet-home.jpg) | ![Detalhe do Animal](screenshots/adotapet-detail.jpg) |
+
+| Mapa | Favoritos |
+|---|---|
+| ![Mapa](screenshots/adotapet-map.jpg) | ![Favoritos](screenshots/adotapet-favorites.jpg) |
+
+| Definições |
+|---|
+| ![Definições](screenshots/adotapet-settings.png) |
+
+## 📚 Contexto académico
+Projeto desenvolvido para a unidade curricular de Programação para Dispositivos Móveis II, no CTeSP de Programação para Web e Dispositivos Móveis (ESTG/IPP).
 
 # Fifty Bird
 
